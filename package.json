@@ -1,0 +1,29 @@
+{
+  "name": "expeditaqui",
+  "version": "1.0.0",
+  "description": "JavaScript Implementation of the IPLD format - Ethereum Transaction",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "async": "^2.1.4",
+    "cids": "^0.3.4",
+    "ethereumjs-tx": "^1.1.2",
+    "multihashes": "^0.3.0"
+  },
+  "devDependencies": {
+    "aegir": "^9.1.2",
+    "chai": "^3.5.0",
+    "ipfs-block": "^0.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConradGulgowski/expeditaqui.git"
+  },
+  "author": "AbdullahKeeling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConradGulgowski/expeditaqui.git/issues"
+  }
+}
